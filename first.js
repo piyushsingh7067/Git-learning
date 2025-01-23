@@ -7,3 +7,6 @@ console.log(login);
 console.log("latest update ");
 
 console.log("Hello coder army");
+
+// I am fixing some bug
+console.log("Bug fixed");
